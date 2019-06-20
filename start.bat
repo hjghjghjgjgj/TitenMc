@@ -1,2 +1,2 @@
 NODE bc.js
-start
+pause
